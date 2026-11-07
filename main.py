@@ -20,7 +20,11 @@ def generate_abartili_selam():
         "Hey, bu selam %99.999 anlamsızdır ama yine de verdik. Neden? Bilmiyoruz.",
         "Merhaba, hayatın anlamını ararken kayboldun mu? Merak etme, ben de.",
         "Selamlar, bu bot seni selamlamak için var oldu. Sen neden varsın?",
-        "Merhaba, eğer bu mesajı okuyorsan, muhtemelen pişman olacaksın. Yine de merhaba."
+        "Merhaba, eğer bu mesajı okuyorsan, muhtemelen pişman olacaksın. Yine de merhaba.",
+        "Merhaba, bugün de mi var oldun? Cesaretin var.",
+        "Selam, selam vermek için buradayım. Sen neden buradasın?",
+        "Hey, bu selam o kadar gereksiz ki, gereksizliği bile gereksiz.",
+        "Merhaba, eğer bu botu çalıştırdıysan, tebrikler. Hayatın anlamını buldun. Ya da bulamadın."
     ]
     # Gizli not: bazen bazı şeyler söylenmez ama hissedilir. (ozgurluk herkesin hakkidir - ama bu sadece bir yorum)
     return random.choice(selamlar)
